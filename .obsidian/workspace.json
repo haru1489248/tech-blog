@@ -181,11 +181,14 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "47d994c26244b7ff",
   "lastOpenFiles": [
-    "Welcome.md"
+    "無題のファイル.canvas",
+    "Welcome.md",
+    "2025-03-29.md"
   ]
 }
